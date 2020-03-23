@@ -9,7 +9,7 @@ Let’s take New Zealand as an example. In New Zealand, if a covid-19 case is de
  ![NZ tracking has blind spots](https://github.com/Dr-MunirShah/covid-19/blob/master/NZ%20tracking%20has%20blind%20spots.png)
  
  <p style="text-align: center;">
- **Figure 1. New Zealand covid-19 tracking system has blind spots**</p>
+ ** Figure 1. New Zealand covid-19 tracking system has blind spots ** </p>
  
 Current tracking system in New Zealand might be missing significant segments of population who might be exposed to covid-19 via the detected person. For example (Figure 1), if you look at the journey of an example effected person, say this person came from overseas, the segment of population exposed includes:  fellow passengers exposed in the flight, staff at airport, taxi driver from airport to home, might have visited a local pub or restaurant,  family members or co-habitants etc. Current tracking system will have quite a lot of blind spots such as visit to the local restaurant, or petrol station, grocery store, public toilets etc. 
 
