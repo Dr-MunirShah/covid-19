@@ -1,4 +1,4 @@
-#How data science and other digital technologies can help in contact tracking covid-19 cases?
+# How data science and other digital technologies can help in contact tracking covid-19 cases?
 
 Countries around the world are handling covid-19 pandemic in variety of different ways. Some of them are proactive and others more reactive. However, the successful are the ones who are proactive in doing comprehensive, in-depth and early contact tracking and investigation of each and every probable case. This allowed them to find and quarantine people that might have exposed to the covid-19.  South Korea and Singapore are the examples where comprehensive tracking and surveillance is proving very effective tool in reducing the spread of covid-19. 
 
