@@ -2,7 +2,7 @@
 
 # List of free resource about covid-19
 
-# free tools and systems 
+# Free tools and systems 
 
 IBM functional genomic plateform  
 * https://www.ibm.com/blogs/research/2020/04/ai-powered-technologies-accelerate-discovery-covid-19/
