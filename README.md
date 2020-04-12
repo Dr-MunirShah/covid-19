@@ -2,17 +2,17 @@
 
 # List of free resource about covid-19
 
-my articles related to the covid-19
+# free tools and systems 
 
-# IBM functional genomic plateform  
+IBM functional genomic plateform  
 * https://www.ibm.com/blogs/research/2020/04/ai-powered-technologies-accelerate-discovery-covid-19/
 
 
-# Folding at home 
-* https://foldingathome.org/covid19/
+Folding at home 
+ https://foldingathome.org/covid19/
 
-# COVID-19 cases worlwide (John Hopkins)
-
+COVID-19 cases worlwide (John Hopkins)
+https://github.com/CSSEGISandData/COVID-19
 
 
 Visual Dashboard (world):
