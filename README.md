@@ -5,7 +5,8 @@
 my articles related to the covid-19
 
 # IBM functional genomic plateform  
-![IBM functional genomic plateform ](https://www.ibm.com/blogs/research/2020/04/ai-powered-technologies-accelerate-discovery-covid-19/)
+* https://www.ibm.com/blogs/research/2020/04/ai-powered-technologies-accelerate-discovery-covid-19/
+
 
 # Folding at home 
 
