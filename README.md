@@ -9,3 +9,7 @@ my articles related to the covid-19
 
 # COVID-19 cases worlwide (John Hopkins)
 # South korea data set
+
+
+![NZ tracking has blind spots](https://github.com/Dr-MunirShah/covid-19/blob/master/NZ%20tracking%20has%20blind%20spots.png)
+**Figure 1. New Zealand covid-19 tracking system has blind spots**
