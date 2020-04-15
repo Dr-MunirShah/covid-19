@@ -24,6 +24,9 @@ https://tinyurl.com/wy9hec9
 COVID-19 projections and Hospital demand forcasting tool
 https://surf.stanford.edu/covid-19-tools/covid-19/
 
+# COVID-19 protien structur 
+https://github.com/feiglab/sars-cov-2-proteins
+
 # Data Sources:
 
 New Zealand Ministry of health : https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases
