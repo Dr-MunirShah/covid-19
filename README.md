@@ -24,7 +24,7 @@ https://tinyurl.com/wy9hec9
 COVID-19 projections and Hospital demand forcasting tool
 https://surf.stanford.edu/covid-19-tools/covid-19/
 
-# COVID-19 protien structur 
+# COVID-19 protien structure 
 https://github.com/feiglab/sars-cov-2-proteins
 
 # Data Sources:
