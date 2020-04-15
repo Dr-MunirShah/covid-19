@@ -30,6 +30,10 @@ https://pages.semanticscholar.org/coronavirus-research
 # COVID-19 protien structure 
 https://github.com/feiglab/sars-cov-2-proteins
 
+# AI companies fighting against covid-19 
+https://www.forbes.com/sites/forbes-personal-shopper/2020/04/14/6-of-the-best-gaming-headsets/#35f6d6413fdc
+
+
 # Data Sources:
 
 New Zealand Ministry of health : https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-current-situation/covid-19-current-cases
